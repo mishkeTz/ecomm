@@ -1,4 +1,4 @@
-# ${1: ECOMM}
+## ECOMM
 Description: Ecommerce sajt (U IZRADI)
 ## Cilj 
 1. CMS
