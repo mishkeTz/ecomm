@@ -1,5 +1,5 @@
 ## ECOMM
-Description: Ecommerce sajt (U IZRADI)
+Description: eCommerce sajt (U IZRADI)
 ## Cilj 
 1. CMS
 2. Paypal API
